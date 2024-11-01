@@ -8,6 +8,8 @@ Hi, I'm Xuanyu Lu, a graduate student in Biomedical Engineering, specializing in
 
 ## Research
 Briefly describe your research interests here.
+Learn more about my [research here](/research/).
+
 
 ## Publications
 - [Publication Title 1](link)
